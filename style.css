@@ -1,6 +1,10 @@
 /* external style sheet for Github pages */
-
 body {
-  background-color: #cc0000;
+  background-color: #BBD1EA;
+  font-family: 'Raleway', sans-serif;
+}
 
+h1 {
+  font-family: 'Fredoka One', cursive;
+  color: blue;
 }
