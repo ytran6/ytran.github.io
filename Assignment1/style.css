@@ -1,0 +1,39 @@
+/* style sheet for Jellyfish */
+
+body {
+  background: #1B2638;
+  font-family: 'Quicksand', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFFFFF;
+  margin-left: 50px;
+  margin-right: 100px;
+}
+
+.image1{
+  max-width: 100%;
+  height: auto;
+}
+
+.image2, .image3{
+  padding-left: 25px;
+  width: 300px;
+  height: auto;
+}
+
+h1, h2 {
+  font-family: 'PT Serif', serif;
+  color: #FEFE58;
+  line-height: 1;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+}
+
+h2{
+  font-size: 25px;
+}
