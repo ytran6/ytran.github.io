@@ -1,0 +1,18 @@
+/* external style sheet for Github pages */
+body {
+  background-color: #F0F8FF;
+  font-family: 'Georgia', serif;
+  padding-bottom: 60px;
+}
+
+h1 {
+  font-family: 'Fredoka One', cursive;
+  color: #008b8b;
+  font-size: 28px;
+}
+
+h2 {
+font-family: 'Fredoka One', cursive;
+color: #5F9EA0;
+font-size: 20px;
+}
